@@ -1,4 +1,4 @@
-# AuNPs Simulation ver2.2
+# AuNPs Simulation
 
 用于金纳米颗粒（AuNPs）光谱数据处理的桌面应用，覆盖 `mat -> csv` 转换、1D 光谱分析、多维参数分析、指标计算与批量导出。
 
